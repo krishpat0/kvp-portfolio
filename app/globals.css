@@ -6,39 +6,5 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
-html {
-  font-size: 70%;
-}
-body {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
-#Header {
-  height: 80px;
-  background-color: teal;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0 1.25rem;
-  flex-wrap: wrap;
-}
-#logo {
-  font-size: 3rem;
-  color: white;
-}
-#nav {
-  display: flex;
-  gap: 20px;
-  font-size: 2rem;
-  color: aliceblue;
-}
-Link {
-  color: aliceblue;
-}
-
-#about-page {
-  background-color: violet;
-  height: 100vh;
+  font-family: serif;
 }
